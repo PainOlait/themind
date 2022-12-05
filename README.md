@@ -1,6 +1,6 @@
 # TheMind
 
-
+Projet Unity de numérisation du jeu de carte The Mind.
 
 ## Getting started
 
